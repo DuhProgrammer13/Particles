@@ -1,0 +1,12 @@
+PARTICLE
+maxsize:25
+image:Images/snow.png
+speed_x_range:[-1, 1]
+speed_y:0
+gravity_y_range:[0.01, 0.05]
+zero_out_x:True
+rotate:False
+EMITTER
+particle_count_min:10
+particle_count_max:100
+particle_emission_area:(0,-30,800,1)

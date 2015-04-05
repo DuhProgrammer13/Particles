@@ -1,0 +1,14 @@
+PARTICLE
+maxsize:25
+image:Images/fire.png
+speed_x_range:[-4, 4]
+speed_y_range:[-4, 4]
+zero_out_x:True
+rotate:False
+slowly_disappear:True
+remaining_life:1000
+total_life:1000
+EMITTER
+particle_count_min:300
+particle_count_max:500
+particle_emission_area:(0,0,1,1)
